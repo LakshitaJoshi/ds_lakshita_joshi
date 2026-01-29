@@ -1,8 +1,11 @@
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Google Colab Notebooks
-< a href="https://colab.research.google.com/drive/1DevE803cO3rhrArP3viedsbO-bJzACM4?usp=sharing"> Notebook
+
+<a href="https://colab.research.google.com/drive/1DevE803cO3rhrArP3viedsbO-bJzACM4?usp=sharing">
+Open Notebook 1 – EDA & Sentiment Analysis
 </a>
+
 
 ## Repository Structure
 - csv_files/ → Raw datasets
