@@ -3,7 +3,7 @@
 ## Google Colab Notebooks
 
 <a href="https://colab.research.google.com/drive/1DevE803cO3rhrArP3viedsbO-bJzACM4?usp=sharing">
-Open Notebook 1 – EDA & Sentiment Analysis
+Open Notebook 1
 </a>
 
 
