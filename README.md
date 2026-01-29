@@ -1,7 +1,8 @@
 # Trader Behavior vs Market Sentiment Analysis
 
 ## Google Colab Notebooks
-[Notebook] (https://colab.research.google.com/drive/1DevE803cO3rhrArP3viedsbO-bJzACM4?usp=sharing)
+< a href="https://colab.research.google.com/drive/1DevE803cO3rhrArP3viedsbO-bJzACM4?usp=sharing"> Notebook
+</a>
 
 ## Repository Structure
 - csv_files/ → Raw datasets
